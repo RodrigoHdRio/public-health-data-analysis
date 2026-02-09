@@ -1,4 +1,4 @@
-# Suicide Rate Data Analysis
+# Public Health Analytics Project
 
 ## Overview
 This project explores global suicide rate data using Python, focusing on data cleaning, exploratory data analysis, and statistical analysis.  
