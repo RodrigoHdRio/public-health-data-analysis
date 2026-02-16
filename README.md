@@ -1,7 +1,7 @@
 # Public Health Analytics Project
 
 ## Overview
-This project explores global suicide rate data using Python, focusing on data cleaning, exploratory data analysis, and statistical analysis.  
+This project explores public health data using Python, focusing on data cleaning, exploratory data analysis, and statistical analysis.  
 The analysis examines patterns across countries, years, and demographic groups using a public data.
 
 ---
